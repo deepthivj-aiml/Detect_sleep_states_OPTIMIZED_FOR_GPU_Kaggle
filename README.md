@@ -1,4 +1,4 @@
-# Detect Sleep States — Approach, Evaluation, and GPU Notes
+# Detect Sleep States — Approach, Evaluation, and GPU Notes( In Progress)
 
 This README documents the approach used in `detect-sleep-states.ipynb`, explains how the
 F1 scores are computed and what they mean, and clarifies which GPU optimization
